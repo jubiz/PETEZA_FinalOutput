@@ -153,7 +153,7 @@ function displayCart(){
     <div class="align">
         <div class="product">
             <i class="fa fa-times-circle" aria-hidden="true"></i>
-            <img src="./images/${item.name}.jpg" width="30%">
+            <img src="./IMAGES/${item.name}.jpg" width="30%">
                  <span>${item.name}</span>
         </div>
 
